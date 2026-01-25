@@ -1,0 +1,11 @@
+{
+  "type": "module",
+  "dependencies": {
+    "@google-cloud/local-auth": "^2.1.0",
+    "@google-cloud/pubsub": "^5.2.2",
+    "@openrouter/sdk": "^0.3.15",
+    "dotenv": "^17.2.3",
+    "googleapis": "^105.0.0",
+    "openai": "^5.0.0"
+  }
+}
